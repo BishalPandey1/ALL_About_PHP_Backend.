@@ -16,6 +16,7 @@ function calculate($num1, $num2, $operation) {
             return $num2 == 0 ? sqrt($num1) : "Square root requires one operand";
         default:
             return "Invalid operation";
+        
     }
 }
 
