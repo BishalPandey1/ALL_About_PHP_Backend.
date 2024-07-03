@@ -8,7 +8,6 @@ $sub4=['sub4'];
 $sub5=['sub5'];
 $sub6=['sub6'];
 $total=($sub1+$sub2+$sub3+$sub4+$sub5+$sub6);
-// $per=($total)/100;
 if($per>90)
 {
     $greade >= "A";
