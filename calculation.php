@@ -92,7 +92,6 @@ echo $per;
     <button type="submit" class="sub">submit</button>
 </div>
 </form>
-    </div>
-        
+    </div>   
 </body>
 </html>
